@@ -1,0 +1,40 @@
+---
+title: "Dean Marchiori"
+image: "deanmarchiori.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/deanmarchiori/"
+  - label: Twitter
+    url: "https://twitter.com/deanmarchiori/"
+  - label: GitHub
+    url: "https://github.com/deanmarchiori/"
+  - label: Email
+    url: "mailto:deanmarchiori@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Dean Marchiori is a Statistician based in Sydney, Australia where he works with Endeavour Energy as a Senior Data Scientist modelling bushfire and vegetation risk on the electricity network. Prior to this Dean led the data science team for a technology consulting company where he specialised in time series analysis, anomaly detection, geospatial analysis and the R programming language. In 2019, Dean was named one of the top 10 analytics leaders in Australia by the Institute of Analytics Professionals of Australia. He is also recognised as an Accredited Statistician with the Statistical Society of Australia, and holds a BSc in Mathematics (with University Medal) and a Masters degree in Applied Finance. Outside of work Dean enjoys bodysurfing, running and spending time with his wife and two boys.
+
+## Projects
+
+[**analysis flow**](https://github.com/deanmarchiori/analysis-flow) | The meta-concepts of data analysis, workflows and projects in R   
+
+[**bomrang**](https://github.com/ropensci/bomrang/) | Australian Government Bureau of Meteorology (BOM) Data Client    
+
+[**ozdates**](https://github.com/deanmarchiori/ozdates) | Important Australian dates for data analysis   
+
+[**culburra**](https://github.com/deanmarchiori/culburra) | Artistic town street map made with Open Street Map data and ggplot2    
+
+[**tidytuesday**](https://github.com/deanmarchiori/tidytuesday) | A collection of #TidyTuesday data analyses  
+
+
+## Links
+
+[**Talks**](https://github.com/deanmarchiori/talks) | Recent and upcoming talks  
+
+[**Papers**](https://github.com/deanmarchiori/talks#papers) | Writing and papers
+
+[**CV**](https://github.com/deanmarchiori/CV/raw/master/CV/CV.pdf) | Download CV  

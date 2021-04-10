@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Dean Marchiori is a Statistician based in Sydney, Australia where he works with Endeavour Energy as a Senior Data Scientist modelling bushfire and vegetation risk on the electricity network. Prior to this Dean led the data science team for a technology consulting company where he specialised in time series analysis, anomaly detection, geospatial analysis and the R programming language. In 2019, Dean was named one of the top 10 analytics leaders in Australia by the Institute of Analytics Professionals of Australia. He is also recognised as an Accredited Statistician with the Statistical Society of Australia, and holds a BSc in Mathematics (with University Medal) and a Masters degree in Applied Finance. Outside of work Dean enjoys bodysurfing, running and spending time with his wife and two boys.
+Dean Marchiori is a Statistician based in Sydney, Australia where he works as the Data Analytics Manager at Endeavour Energy. His work focuses on modelling bushfire and vegetation risk on the electricity network. Prior to this Dean led the data science team for a technology consulting company where he specialised in time series analysis, anomaly detection, geospatial analysis and the R programming language. In 2019, Dean was named one of the top 10 analytics leaders in Australia by the Institute of Analytics Professionals of Australia. He is also recognised as an Accredited Statistician with the Statistical Society of Australia, and holds a BSc in Mathematics (with University Medal) and a Masters degree in Applied Finance. Outside of work Dean enjoys bodysurfing, running and spending time with his wife and two boys.
 
 ## Projects
 
